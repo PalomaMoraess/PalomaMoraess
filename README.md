@@ -26,23 +26,32 @@ Neste GitHub compartilho os projetos desenvolvidos durante minha formação na *
 ## 📂 Projetos em Destaque
 
 ### 🤖 QA-Brazil_Automação_Python
-Projeto de automação de testes desenvolvido durante minha formação na TripleTen utilizando **Python**, **Selenium WebDriver** e **Pytest**. O projeto aplica o padrão **Page Object Model (POM)** para automatizar cenários de testes da aplicação Urban Routes.
 
-**Tecnologias utilizadas:** Python • Selenium • Pytest • Git • GitHub
+Projeto de automação de testes desenvolvido durante minha formação na TripleTen utilizando **Python**, **Selenium WebDriver** e **Pytest**.
 
----
+Neste projeto apliquei o padrão **Page Object Model (POM)** para automatizar cenários da aplicação Urban Routes, simulando ações do usuário e validando o comportamento do sistema.
 
-### 🐍 Python Teste
-Repositório criado para praticar conceitos da linguagem Python e desenvolver a lógica de programação aplicada à automação de testes.
+**Tecnologias utilizadas:** Python • Selenium WebDriver • Pytest • Git • GitHub
 
 ---
 
-🚧 Este portfólio está em constante evolução. Em breve serão adicionados novos projetos relacionados a:
+### 📋 Manual_Testing_Urban_Routes
+
+Projeto de testes manuais de regressão realizado durante minha formação na TripleTen.
+
+Neste projeto executei **24 casos de teste**, identifiquei **8 bugs**, elaborei relatórios de defeitos e classifiquei suas prioridades, desenvolvendo habilidades em testes manuais, análise de resultados e documentação de bugs.
+
+**Ferramentas utilizadas:** Google Sheets • Casos de Teste • Relatórios de Bugs
+
+---
+
+🚧 Este portfólio está em constante evolução.
+
+Os próximos projetos que serão adicionados incluem:
 
 - 📬 Testes de API com Postman
 - 🗄️ Consultas SQL
-- 📋 Casos de teste
-- 🐞 Relatórios de bugs
+- 🐞 Testes de Banco de Dados
 - 📑 Documentação de QA
 
 ---
