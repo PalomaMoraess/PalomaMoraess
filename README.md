@@ -23,7 +23,7 @@ Neste GitHub compartilho os projetos desenvolvidos durante minha formação na *
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Portifólio
 
 ### 🤖 QA-Brazil_Automação_Python
 
